@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica1InicioSesionMovil</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="pie_uteq">UTEQ 2026</string>
+    <string name="inicio_sesion">Inicio de Sesión</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="logo_uteq">Logo UTEQ</string>
+    <string name="logo_facultad">Logo de la Facultad</string>
+    <string name="menu">Menú</string>
+</resources>

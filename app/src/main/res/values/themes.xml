@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Practica1InicioSesionMovil" parent="Theme.Material3.Light.NoActionBar" />
+
+    <!-- Forma circular para el botón flotante del menú -->
+    <style name="FabCircular" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
